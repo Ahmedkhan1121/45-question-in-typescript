@@ -2,3 +2,4 @@
 
 let myName:String='Ahmed';
 console.log(`"hello ${myName},  would you like to learn some TypeScript today?” `);
+
